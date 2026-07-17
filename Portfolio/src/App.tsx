@@ -729,6 +729,26 @@ export default function App() {
     },
     projects: [
       {
+        title: "Conversational RAG System – Intelligent Document & Web Knowledge Assistant",
+        desc: "Developed a Python-based Retrieval-Augmented Generation (RAG) platform that enables users to query PDFs and website content using AI-powered semantic search and Large Language Models.",
+        features: [
+          "Multi-format document ingestion (PDF & Website URLs)",
+          "Hybrid retrieval using ChromaDB, BM25 & Reciprocal Rank Fusion (RRF)",
+          "OCR support for scanned PDFs with EasyOCR",
+          "AI-powered contextual question answering with Groq LLM",
+          "Session-based document indexing with intelligent retrieval pipeline"
+        ],
+        impact: [
+          "Improved response accuracy through hybrid semantic and keyword retrieval.",
+          "Reduced irrelevant responses using re-ranking and optimized retrieval strategies.",
+          "Enabled fast, context-aware answers from large documents and web content.",
+          "Delivered a scalable, production-ready AI knowledge assistant."
+        ],
+        tech: ["Python", "Streamlit", "ChromaDB", "Sentence Transformers", "Groq API", "EasyOCR", "Rank-BM25", "PyMuPDF", "BeautifulSoup", "LangChain", "Git & GitHub"],
+        link: "https://contextflowai.streamlit.app/",
+        github: "https://github.com/Karthi02A/Universal-Rag-System"
+      },
+      {
         title: "DataForge AI – Data Science Automation Platform",
         desc: "Developed a Python-based system that automates data analysis, preprocessing, and machine learning model generation.",
         features: [

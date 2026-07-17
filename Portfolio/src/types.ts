@@ -44,6 +44,18 @@ export const RESUME_DATA = {
   },
   projects: [
     {
+      title: "Conversational RAG System",
+      description: "Intelligent Document & Web Knowledge Assistant",
+      details: [
+        "Developed a Python-based Retrieval-Augmented Generation (RAG) platform that enables users to query PDFs and website content using AI-powered semantic search and Large Language Models.",
+        "Features: Multi-format document ingestion (PDF & Website URLs), hybrid retrieval (ChromaDB + BM25 + RRF), EasyOCR for scanned PDFs, and Groq LLM question answering.",
+        "Impact: Improved response accuracy, reduced irrelevant responses using re-ranking, and enabled fast, context-aware answers from large documents.",
+        "Capabilities: Delivers a scalable, session-based document indexing and question answering pipeline."
+      ],
+      link: "https://contextflowai.streamlit.app/",
+      tags: ["Python", "RAG", "ChromaDB", "Streamlit", "LLM"]
+    },
+    {
       title: "DataForge AI",
       description: "Data Science Automation Platform",
       details: [
