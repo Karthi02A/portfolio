@@ -997,7 +997,7 @@ export default function App() {
                 </div>
                 <div className="flex flex-wrap gap-5 fade-up">
                   <a href="#projects" className="btn px-8 py-4 text-base">Explore Work 💼</a>
-                  <a href="/resume.pdf" download="Karthikeyan_A_Resume.pdf" type="application/pdf" className="btn px-8 py-4 text-base bg-transparent border-2 border-[#00F5FF] text-[#00F5FF] hover:bg-[#22D3EE] hover:text-[#05060A] hover:border-[#22D3EE]">Download Resume 📄</a>
+                  <a href="/karthi_resume.pdf" download="Karthikeyan_A_Resume.pdf" type="application/pdf" className="btn px-8 py-4 text-base bg-transparent border-2 border-[#00F5FF] text-[#00F5FF] hover:bg-[#22D3EE] hover:text-[#05060A] hover:border-[#22D3EE]">Download Resume 📄</a>
                   <a href="#contact" className="btn px-8 py-4 text-base bg-white/[0.02] border-2 border-white/5 text-white hover:bg-white/10">Let's Connect 📬</a>
                 </div>
               </div>
