@@ -721,10 +721,10 @@ export default function App() {
       "I enjoy solving complex problems and extracting meaningful insights from data. My goal is to build intelligent systems that can make impactful decisions."
     ],
     skills: {
-      technical: ["Python 🐍", "SQL 📊", "Data Analysis 🔍", "Machine Learning 🤖", "NLP (Basic) 💬"],
-      libraries: ["Pandas 🐼", "NumPy 🔢", "Scikit-learn ⚙️", "Matplotlib 📉"],
-      tools: ["Power BI 📊", "GitHub 🐙", "Google Colab ☁️", "Jupyter Notebook 📓", "PyCharm 💻", "Streamlit 🚀"],
-      soft: ["Problem-solving 💡", "Communication 🗣️", "Teamwork 🤝", "Critical Thinking 🧠"],
+      technical: ["Python 🐍", "SQL 📊", "Data Analysis 🔍", "Statistical Analysis 📉", "Machine Learning 🤖", "Deep Learning 🧠", "Natural Language Processing (NLP) 💬", "Generative AI ✨", "Retrieval-Augmented Generation (RAG) 🔎", "Feature Engineering 🧩", "Prompt Engineering 📝"],
+      libraries: ["Pandas 🐼", "NumPy 🔢", "Scikit-learn ⚙️", "Matplotlib 📉", "Plotly 📈", "ChromaDB 🗄️", "FAISS 🔍"],
+      tools: ["Excel 📑", "Power BI 📊", "Streamlit 🚀", "GitHub 🐙", "Jupyter Notebook 📓", "Google Colab ☁️", "PyCharm 💻", "Render 🌐", "Vercel ⚡", "Streamlit Cloud ☁️"],
+      soft: ["Problem-solving 💡", "Communication 🗣️", "Teamwork 🤝", "Critical Thinking 🧠", "Analytical Thinking 📊", "Adaptability 🔄", "Time Management ⏳"],
       languages: ["Tamil", "English"]
     },
     projects: [
@@ -792,7 +792,7 @@ export default function App() {
       college: "Karpaga Vinayaga College of Engineering and Technology",
       year: "2022 – 2026",
       location: "Chengalpattu",
-      score: "74%"
+      score: "76%"
     },
     certifications: [
       { name: "IBM Data Analyst Professional Certificate", issuer: "IBM" },

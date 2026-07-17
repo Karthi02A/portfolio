@@ -36,9 +36,10 @@ export const RESUME_DATA = {
   location: "Chennai, India",
   profile: "Aspiring Junior Data Scientist with strong skills in Python, data analysis, and machine learning. Experienced in data preprocessing, visualization, and building data-driven solutions using real-world datasets. Passionate about extracting meaningful insights and solving problems through data-driven approaches.",
   skills: {
-    technical: ["Python", "SQL", "Data Analysis", "Machine Learning", "NLP (Basic)", "Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-    tools: ["Power BI", "GitHub", "Google Colab", "Pycharm", "Jupyter Notebook", "Streamlit"],
-    soft: ["Problem-solving", "Communication", "Teamwork", "Critical Thinking"],
+    technical: ["Python 🐍", "SQL 📊", "Data Analysis 🔍", "Statistical Analysis 📉", "Machine Learning 🤖", "Deep Learning 🧠", "Natural Language Processing (NLP) 💬", "Generative AI ✨", "Retrieval-Augmented Generation (RAG) 🔎", "Feature Engineering 🧩", "Prompt Engineering 📝"],
+    libraries: ["Pandas 🐼", "NumPy 🔢", "Scikit-learn ⚙️", "Matplotlib 📉", "Plotly 📈", "ChromaDB 🗄️", "FAISS 🔍"],
+    tools: ["Excel 📑", "Power BI 📊", "Streamlit 🚀", "GitHub 🐙", "Jupyter Notebook 📓", "Google Colab ☁️", "PyCharm 💻", "Render 🌐", "Vercel ⚡", "Streamlit Cloud ☁️"],
+    soft: ["Problem-solving 💡", "Communication 🗣️", "Teamwork 🤝", "Critical Thinking 🧠", "Analytical Thinking 📊", "Adaptability 🔄", "Time Management ⏳"],
     languages: ["Tamil", "English"]
   },
   projects: [
@@ -90,7 +91,7 @@ export const RESUME_DATA = {
     institution: "Karpaga Vinayaga College of Engineering and Technology",
     period: "2022 – 2026",
     location: "Chengalpattu",
-    percentage: "74%"
+    percentage: "76%"
   },
   certifications: [
     { name: "IBM Data Analyst", issuer: "Coursera (IBM)" },
